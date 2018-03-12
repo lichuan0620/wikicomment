@@ -7,5 +7,5 @@ Some of the notebooks use GloVe pre-trained word vectors. They can be downloaded
 
 ## Kaggle score so far
 RCNN - 0.9721  
-RCNN v2 - 0.9799  
-Pooled RCNN - 0.9816  
+RCNN v2 - 0.9799   
+Pooled RCNN - 0.9837
