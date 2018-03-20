@@ -7,9 +7,9 @@ Some of the notebooks use GloVe pre-trained word vectors. They can be downloaded
 
 ## Kaggle score so far
 RCNN - 0.9721  
-Char-level Deep RCNN - 0.9750
+Char-level Deep RCNN - 0.9750  
 Logistic Regression + Naive Bayes SVM - 0.9797  
 RCNN v2 - 0.9799   
 Pooled RCNN - 0.9837  
 LG NB-SVM + Pooled RCNN ensemble - 0.9850  
-LG NB-SVM + RCNNv3 + CharRCNN ensemble - 0.9855
+LG NB-SVM + RCNNv3 + CharRCNN ensemble - 0.9855  
