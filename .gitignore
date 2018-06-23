@@ -2,3 +2,4 @@
 *.csv
 preembedding/glove.6B.300d.txt
 preembedding/glove.840B.300d.txt
+.ipynb_checkpoints/
